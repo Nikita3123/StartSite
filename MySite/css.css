@@ -1,0 +1,6 @@
+body{
+background-image: radial-gradient(rgb(101, 115, 255), rgb(111, 114, 247), rgb(120, 114, 239), rgb(130, 113, 231), rgb(139, 112, 223), rgb(149, 111, 215), rgb(158, 111, 208), rgb(168, 110, 200), rgb(177, 109, 192), rgb(187, 108, 184), rgb(196, 108, 176), rgb(206, 107, 168));
+}
+.container shadow{
+    background-image: linear-gradient(to bottom right, rgb(167, 255, 99), rgb(148, 208, 89), rgb(129, 160, 79), rgb(109, 113, 70), rgb(90, 65, 60), rgb(71, 18, 50), rgb(76, 38, 77), rgb(81, 58, 105), rgb(87, 78, 132), rgb(92, 98, 159), rgb(97, 118, 187), rgb(102, 138, 214));
+}
